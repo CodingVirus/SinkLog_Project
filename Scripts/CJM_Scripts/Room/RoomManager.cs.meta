@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4b06cb0d63496b142984c458160fb532
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RoomObj: {fileID: 7249491988998932928, guid: 808bdcddf4f49e142957896f8e0bfcd4, type: 3}
+  - FadeCanvas: {fileID: 4446376510532688179, guid: a32d8142de8c78f4e8df3a41f1858baa, type: 3}
+  - RoomContainer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

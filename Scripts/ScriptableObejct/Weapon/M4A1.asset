@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f6612617cf633748ba2849d4844ccf3, type: 3}
+  m_Name: M4A1
+  m_EditorClassIdentifier: 
+  weaponName: M4A1
+  weaponType: 1
+  handType: 2
+  category: 1
+  Description: Sample
+  addHP: 0
+  attackMinDamage: 10
+  attackMaxDamage: 20
+  defensePoint: 1
+  criticalRate: 20
+  criticalDamage: 20
+  attackSpeed: 2
+  moveSpeed: 0
+  dodgeRate: 0
+  ItemPrefab: {fileID: 3498637662330587684, guid: f7a950eb41505ce48a7643d6ebaf55f4, type: 3}

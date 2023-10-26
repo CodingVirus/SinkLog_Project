@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f6612617cf633748ba2849d4844ccf3, type: 3}
+  m_Name: Ring
+  m_EditorClassIdentifier: 
+  weaponName: Jewel Ring
+  weaponType: 0
+  handType: 0
+  category: 2
+  Description: Normal Ring
+  addHP: 10
+  attackMinDamage: 0
+  attackMaxDamage: 0
+  defensePoint: 1
+  criticalRate: 5
+  criticalDamage: 0
+  attackSpeed: 0
+  moveSpeed: 0
+  dodgeRate: 5
+  ItemPrefab: {fileID: 111176988910930933, guid: 70ceded7b72153241b3a23577a4b701d, type: 3}

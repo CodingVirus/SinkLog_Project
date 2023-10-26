@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0fb6ccea355d32b41b5bfb0bd1cb2c5c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - solidRuleTile: {fileID: 11400000, guid: 2cfdf83aea612d74ea3738750c3984ec, type: 2}
+  - platformRuleTile: {fileID: 11400000, guid: d576bf6998f9d894f956c800b9dc2472, type: 2}
+  - portalRight: {fileID: 11400000, guid: ee6c3cd7a8d5cac4f926e36ecefd6416, type: 2}
+  - portalUp: {fileID: 11400000, guid: 4707f9a9263d904468d6b6004d74089b, type: 2}
+  - portalLeft: {fileID: 11400000, guid: c091de64abb382a4186fd6031902a9ab, type: 2}
+  - portalDown: {fileID: 11400000, guid: b321128856890264f824bbfae4f31018, type: 2}
+  - chest: {fileID: 5698868995267916014, guid: a704a939a7368394797e17b1123d7f62, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

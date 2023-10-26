@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 29854eb26fba4b94fb39df49fc107a53
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - emptyGameObject: {instanceID: 0}
+  - worldmapRoomIcon: {instanceID: 0}
+  - worldmapBackGround: {instanceID: 0}
+  - worldmapPlayerIcon: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
