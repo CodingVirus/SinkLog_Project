@@ -19,10 +19,4 @@
   <p align = "left">
   <img src = "">
   </p>
-- 미니 게임 구현
-  <p align = "left">
-  <img src = "">
-  </p>
-  <p align = "left">
-  <img src = "">
-  </p>
+
