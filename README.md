@@ -9,10 +9,20 @@
 
 
 - 인벤토리
+  싱글톤 패턴을 사용하여 맵 변경시에도 유지
   <p align = "left">
   <img src = "">
   </p>
 - 대화 시스템
+  <p align = "left">
+  <img src = "">
+  </p>
+  <p align = "left">
+  <img src = "">
+  </p>
+
+- Dash UI
+  오브젝트 풀링을 사용하여 최적화
   <p align = "left">
   <img src = "">
   </p>
