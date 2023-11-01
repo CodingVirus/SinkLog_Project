@@ -8,7 +8,7 @@
 #### 구현
 
 
-- 인벤토리
+- 인벤토리 <br>
   싱글톤 패턴을 사용하여 맵 변경시에도 유지
   <p align = "left">
   <img src = "">
@@ -21,7 +21,7 @@
   <img src = "">
   </p>
 
-- Dash UI
+- Dash UI <br>
   오브젝트 풀링을 사용하여 최적화
   <p align = "left">
   <img src = "">
